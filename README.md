@@ -24,12 +24,12 @@ Pydicom is a pure Python package for working with DICOM files.
 https://github.com/pydicom/pydicom
 
 For using Pydicom in Python script, please import the package as following:
-'''python
+```python
 import pydicom
-'''
+```
 
 Numpy is the fundamental package for data processing with Python.
 For using Pydicom in Python script, please import the package as following:
-'''python
+```python
 import numpy as np
-'''
+```
