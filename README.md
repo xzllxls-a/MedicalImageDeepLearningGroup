@@ -1,6 +1,6 @@
-#Medical Image Deep Learnig Group Code
+# Medical Image Deep Learnig Group Code
 
-##This repository contains code and sample data used by our research group.
+## This repository contains code and sample data used by our research group.
 
 Digital Imaging and Communications in Medicine — is the international standard for medical images and related information.
 Medical image files are usually stored in the DICOM format.
