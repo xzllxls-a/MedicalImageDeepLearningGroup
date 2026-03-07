@@ -33,3 +33,27 @@ For using Pydicom in Python script, please import the package as following:
 ```python
 import numpy as np
 ```
+
+## Commended Learning Resources
+## 推荐的学习资源
+
+### 一、 关于图像处理
+
+
+### 二、 关于机器学习或深度学习
+1. 图书
+(1) 周志华. 机器学习. 清华大学出版社
+
+(2) Ian Goodfellow, Yoshua Bengio, Aaron Courville. Deep learning. MIT Press, 2016
+https://www.deeplearningbook.org/
+中文翻译版：
+Ian Goodfellow著，赵申剑，黎彧君，符天凡、李凯译. 深度学习. 人民邮电出版社, 2017
+https://item.jd.com/12128543.html?spmTag=YTAyMTkuYjAwMjM1Ni5jMDAwMDQ2ODkuc2VhcmNoX2NvbmZpcm0lMkNhMDI0MC5iMDAyNDkzLmMwMDAwNDAyNy4xJTIzc2t1X2NhcmQ
+ 
+
+2 教学视频
+(1) 周志华老师亲讲-西瓜书全网最详尽讲解-1080p高清原版《机器学习初步》
+https://www.bilibili.com/video/BV1gG411f7zX/?spm_id_from=333.337.search-card.all.click
+
+(2) （2025版）李宏毅机器学习深度学习系列课程全集，公认体验感最好的入门课程！--人工智能/机器学习/深度学习
+https://www.bilibili.com/video/BV1TAtwzTE1S/?spm_id_from=333.337.search-card.all.click&vd_source=73e26f76b70b859ab03ff8feced6d099
