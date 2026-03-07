@@ -44,8 +44,6 @@ import numpy as np
 
 https://item.jd.com/12191950.html?spmTag=YTAyMTkuYjAwMjM1Ni5jMDAwMDQ2ODkuc2VhcmNoX2NvbmZpcm0lMkNhMDI0MC5iMDAyNDkzLmMwMDAwNDAyNy4xJTIzc2t1X2NhcmQ&pcdk=u7iH-J4K4CjUyILE5VJ1a2mb5kg_Oe33e_ZY6DEpbTQ%3D.rQ4a.tlbT
 
-本代码仓库resource/eBook目录下保存了一份PDF电子版（仅供学习目的，不得用于商业）。
-
 
 ### 二、 关于机器学习或深度学习
 
@@ -68,8 +66,6 @@ https://item.jd.com/12128543.html?spmTag=YTAyMTkuYjAwMjM1Ni5jMDAwMDQ2ODkuc2VhcmN
 电子版：
 
 https://github.com/exacity/deeplearningbook-chinese
-
-本代码仓库resource/eBook目录下保存了一份PDF电子版（仅供学习目的，不得用于商业）。
  
 
 2 教学视频
