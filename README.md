@@ -38,6 +38,13 @@ import numpy as np
 ## 推荐的学习资源
 
 ### 一、 关于图像处理
+1. 图书
+
+冈萨雷斯, 伍兹 著. 阮秋琦 译. 数字图像处理. 电子工业出版社. 2017 （中文翻译版）
+
+https://item.jd.com/12191950.html?spmTag=YTAyMTkuYjAwMjM1Ni5jMDAwMDQ2ODkuc2VhcmNoX2NvbmZpcm0lMkNhMDI0MC5iMDAyNDkzLmMwMDAwNDAyNy4xJTIzc2t1X2NhcmQ&pcdk=u7iH-J4K4CjUyILE5VJ1a2mb5kg_Oe33e_ZY6DEpbTQ%3D.rQ4a.tlbT
+
+本代码仓库resource/eBook目录下保存了一份PDF电子版（仅供学习目的，不得用于商业）。
 
 
 ### 二、 关于机器学习或深度学习
@@ -54,7 +61,15 @@ https://www.deeplearningbook.org/
 
 Ian Goodfellow著，赵申剑，黎彧君，符天凡、李凯译. 深度学习. 人民邮电出版社, 2017
 
+纸质书：
+
 https://item.jd.com/12128543.html?spmTag=YTAyMTkuYjAwMjM1Ni5jMDAwMDQ2ODkuc2VhcmNoX2NvbmZpcm0lMkNhMDI0MC5iMDAyNDkzLmMwMDAwNDAyNy4xJTIzc2t1X2NhcmQ
+
+电子版：
+
+https://github.com/exacity/deeplearningbook-chinese
+
+本代码仓库resource/eBook目录下保存了一份PDF电子版（仅供学习目的，不得用于商业）。
  
 
 2 教学视频
