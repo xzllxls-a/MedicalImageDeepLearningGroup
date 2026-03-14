@@ -16,7 +16,7 @@
 
 （3）方法：什么模型？ 什么网络结构？ 是监督学习，无监督学习，还是半监督学习？ 处理流程是单阶段，还是双阶段甚至多阶段？
 
-综述文章是对某个领域研究工作的梳理。通过阅读综述来了解一个研究领域。
+综述文章是对某个领域研究工作的梳理。阅读综述是了解一个研究领域的一个好办法。
 
 Digital Imaging and Communications in Medicine — is the international standard for medical images and related information.
 Medical image files are usually stored in the DICOM format.
