@@ -2,6 +2,22 @@
 
 ## This repository contains code and sample data used by our research group.
 
+
+关于医学图像（影像）的深度学习研究领域
+
+一个研究工作的两个核心方面是：问题和方法。
+
+对于医学图像（影像）处理领域的问题主要包含两个方面：图像形态和任务。
+
+影像+任务+方法
+（1）什么模态的影像：断层影像（Computed tomography, CT）？ 磁共振（Magnetic Resource Imaging, MRI）？ 病理（Path）？ 是用单模态，还是多模态？
+
+（2）什么类型的任务：分类（Classification）？ 检测（Detection）？ 分割（Segamentation）？ 图像转换（Translation, Transform, Synthesis）？
+
+（3）方法：什么模型？ 什么网络结构？ 是监督学习，无监督学习，还是半监督学习？ 处理流程是单阶段，还是双阶段甚至多阶段？
+
+综述文章是对某个领域研究工作的梳理。通过阅读综述来了解一个研究领域。
+
 Digital Imaging and Communications in Medicine — is the international standard for medical images and related information.
 Medical image files are usually stored in the DICOM format.
 DICOM file format reference:
